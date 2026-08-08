@@ -1,0 +1,39 @@
+{
+  "sections": [
+    {
+      "id": "navbar",
+      "slug": "navbar15_component",
+      "imageIds": []
+    },
+    {
+      "id": "hero",
+      "slug": "section_header145",
+      "imageIds": []
+    },
+    {
+      "id": "services",
+      "slug": "grid-list5_component",
+      "imageIds": []
+    },
+    {
+      "id": "experience",
+      "slug": "section_stats30",
+      "imageIds": []
+    },
+    {
+      "id": "portfolio",
+      "slug": "section_gallery10",
+      "imageIds": []
+    },
+    {
+      "id": "testimonials",
+      "slug": "section_testimonial43",
+      "imageIds": []
+    },
+    {
+      "id": "footer",
+      "slug": "footer7_component",
+      "imageIds": []
+    }
+  ]
+}
