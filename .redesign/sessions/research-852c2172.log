@@ -1,0 +1,17 @@
+Phase: research
+Model: deepseek/deepseek-v4-flash-0731
+Exit code: 0
+
+[0m
+> research · deepseek/deepseek-v4-flash-0731
+[0m
+[0m→ [0mRead raw.md
+[0m→ [0mRead public/images/manifest.json
+Let me read the rest of raw.md.
+[0m→ [0mRead raw.md[90m [offset=1019][0m
+I have enough context. Now I'll create `proof.md`.
+[0m
+[0m← [0mWrite proof.md
+Wrote file successfully.
+[0m
+Created `proof.md` with the required `## Outreach` section (exactly three bullets) followed by a compact preservation of all credible proof points, with a link to teams-page proof as well.
